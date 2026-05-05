@@ -1,8 +1,7 @@
-streamlit
 flask
-torch==2.11.0
-torchvision
-transformers==4.41.2
+streamlit
+torch
+transformers
 pillow
 numpy
 faiss-cpu
