@@ -1,6 +1,7 @@
-streamlit==1.36.0
-torch==2.2.2
-torchvision==0.17.2
+streamlit==1.57.0
+torch==2.11.0
+torchvision
 transformers==4.41.2
 pillow
+numpy
 faiss-cpu
