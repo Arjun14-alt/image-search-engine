@@ -1,4 +1,5 @@
-streamlit==1.57.0
+streamlit
+flask
 torch==2.11.0
 torchvision
 transformers==4.41.2
